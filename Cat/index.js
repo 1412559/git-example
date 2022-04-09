@@ -1,3 +1,3 @@
 function Cat() {
-  this.namme = 'cat'
+  this.name = 'cat'
 }
